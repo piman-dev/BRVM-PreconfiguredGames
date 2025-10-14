@@ -1,3 +1,3 @@
-# Stable pre-configured games for Winlator
+# Pre-configured games for Winlator
 
-This is a repository for stable builds of pre-configured games, designed for playing on Winlator, GameFusion, MiceWine or similar software.
+This is a repository for stable builds of pre-configured games, designed for running on Winlator, GameFusion, MiceWine or similar software.
